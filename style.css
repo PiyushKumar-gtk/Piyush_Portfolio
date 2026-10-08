@@ -2686,7 +2686,7 @@ img {
 /* ==========================================================================
    RESPONSIVE MEDIA QUERIES
    ========================================================================== */
-@media (max-width: 1024px) {
+@media (max-width: 768px) {
   .hero-container {
     grid-template-columns: 1fr;
     gap: 40px;
